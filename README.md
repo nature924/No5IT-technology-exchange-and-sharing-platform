@@ -79,8 +79,6 @@
 ![image/1.png](image/图片7.png)
 ![image/1.png](image/图片8.png)
 ![image/1.png](image/图片9.png)
-![image/1.png](image/图片10.png)
-![image/1.png](image/图片11.png)
-![image/1.png](image/图片12.png)
+
 
 
